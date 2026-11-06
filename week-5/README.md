@@ -1,1 +1,1 @@
-# Nädal 5: Visualiseerimine
+# Nädal 5-6: Visualiseerimine
