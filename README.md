@@ -1,33 +1,20 @@
-# DACA Portfoolio
- 
-**Programm:** Data Analyst Career Accelerator (DACA)
-**Osaleja:** Gertrud Kaupmees
-**Algus:** 6.11.2026
- 
-## Kirjeldus
- 
-See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
- 
-## Projektid
- 
-### Week 0: Onboarding
-- GitHub seadistamine ✅
-- Supabase seadistamine ✅
- 
-### Week 1: SQL Põhitõed
-- (tulemas...)
- 
-### Week 2: SQL Andmete Puhastamine
-- (tulemas...)
- 
-## Oskused
- 
-- **SQL:** PostgreSQL, Supabase
-- **Python:** pandas, plotly (tulemas...)
-- **Visualiseerimine:** Power BI / Streamlit (tulemas...)
-- **Tööriistad:** Git, GitHub, VS Code
- 
-## Kontaktc
- 
-- **GitHub:** gertrudkaupmees-lab (https://github.com/gertrudkaupmees-lab)
-- **Email:** gertrud.kaupmees@gmail.com
+# DACA Portfoolio -- Gertrud Kaupmees
+
+## Minust
+Tere! Alustan 11-nädalast intensiivset Data Analyst Career Accelerator (DACA) programmi. Soovin koolituse raames luua väljundid vastavalt õpitavatele programmidele ja täiendada enda seniseid teadmisi. 
+
+## Eesmärk
+Õppida andmeanalüüsi -- SQL, Python, visualiseerimine -- ja ehitada professionaalne portfoolio.
+
+## Nädala kaupa
+| Nädal | Teema | Staatus |
+|-------|-------|---------|
+| 0 | Onboarding | Käimas |
+| 1 | SQL Basics | Tulemas |
+| 2 | SQL Cleaning | Tulemas |
+| 3 | SQL JOINs | Tulemas |
+| 4 | SQL Aggregation | Tulemas |
+| 5-6 | Visualiseerimine | Tulemas |
+| 7-8 | Python | Tulemas |
+| 9-10 | Portfoolio + Karjäär | Tulemas |
+
