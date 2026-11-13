@@ -19,7 +19,7 @@ Teostada detailsem süvaanalüüs ja andmete korrastamine, et vältida topelt in
 
 Olemasolevad andmed vajavad oluliselt korrastamist, enne nende kasutusele võttu. Ärilisi otsusi antud andmete põhjal ei ole soovitatav teha, kuna tulemused oleksid moonutatud ja ei oleks tõesed.
 
-Kogu grupitöö kokkuvõte nähtav xxx
+Kogu grupitöö kokkuvõte nähtav https://github.com/vvaiko1/UrbanStyle-ladu/blob/main/week-1/README.md
 
 ## Iseseisev töö
 
