@@ -62,3 +62,5 @@ Tundmatute klientide müük:
 | ------------- | ---------- | ----------------- |
 | 286446.20     | 2909177.98 | 9.8               |
 
+Tuvastatud klientidest (2551 ostnud klienti) kulutab üle keskmise 900 ehk ligikaudu 35,3%; keskmine müük kliendi kohta on 1028,12 €. Müügid ilma kliendikirjeta (286 446 €) moodustavad 9,8% kogumüügist (2 909 178 €) ja on keskmise arvutusest välja jäetud, et see ei moonduks. Soovitan puuduvad customer_id väärtused müügitabelis üle vaadata, sest ligi kümnendikku käibest ei saa praegu kliendi tasemel analüüsida.
+
